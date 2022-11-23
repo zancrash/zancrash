@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzan</h1>
-<h3 align="center">Mobile Developer Intern @ TD Bank</h3>
+<h3 align="center">CompSci student @ WLU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zancrash&label=Profile%20views&color=0e75b6&style=flat" alt="zancrash" /> </p>
 
